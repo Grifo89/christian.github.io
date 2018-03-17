@@ -1,0 +1,51 @@
+html{
+	background-color: #00539F;
+	font-size: 10px; /* px quiere decir 'pixels': la base del tamaño de la fuente ahora es de 10 pixeles*/
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Playfair Display', serif;
+	font-family: 'Indie Flower', cursive; 
+}
+
+body{
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FF9500;
+	padding:0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1{
+	margin: 0;
+	color: #00539F;
+	text-shadow: 3px 3px 6px black;
+	font-size: 60px;
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+
+.main{
+	font-size: 20px;
+	font-family: 'Playfair Display', serif;
+}
+
+.footer{
+	font-size: 20px;
+	
+}
+	
+img{
+	width: 500px;
+	border: 1px solid withe;
+	margin: 0 auto;
+	display: block;
+}
+
+a{
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+}
+
+a:hover{
+	color: yellow
+	
+}
